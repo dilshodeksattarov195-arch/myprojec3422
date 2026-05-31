@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydncrypt",
+        "uuid": 16439288,
+        "checksum": "v6vir"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
